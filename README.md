@@ -2,21 +2,21 @@
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50" align="middle" alt="Waving Hand" /> My name is Luis Arreola
 </h1>
 
-
+## 👨‍💻 About Me
+- 📍 Live in **Denver, Colorado**🏔️
+- 🎓 **Background:** B.S. in Computer Science with a focus on data analytics
+- 🎯 **Current Focus:** Deepening understanding in end to end data pipelines, predictive analytics, and self hosted server infrastructure.
+- ⚡ **Fun fact:** I have lived in Colorado, Wyoming, Texas, & Ohio
+- 🗣️ **Languages:** English (Fluent) · Spanish (Fluent)
 
 
 <table align="center" width="100%">
   <tr valign="top">
-    <!-- Left Column: About Me -->
-    <td width="50%">
-      <h3 align="center">🙋‍♂️ About Me</h3>
-      <ul>
-        <li>📍 Based in <b>Denver, Colorado</b> 🏔️</li>
-        <li>🎓 <b>B.S. in Computer Science</b></li>
-        <li>💻 Building projects with <b>Python</b></li>
-        <li>💻 Passionate about <b>Data Analytics</b></li>
-        <li>🛠️ Learning about <b>Raspberry Pi home labs, 3D printing, and local AI/LLMs</b></li>
-      </ul>
+    <!-- Left Column: The Eternal Struggling Loader -->
+    <td width="50%" align="center">
+      <a href="https://github.com/Luis-is-afk">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=800&color=F97316&background=181824&center=true&vCenter=true&width=400&height=165&lines=%E2%9A%A0%EF%B8%8F+LOADING+PROFILE+DATA...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25;[LOG]+Downloading+more+RAM...;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Retrying+(Attempt+%2399999)...;CRITICAL_ERROR%3A+Brain.exe+hung;Please+check+back+in+2027..." alt="Loading forever..." width="100%" />
+      </a>
     </td>
     <!-- Right Column: Language Stats Widget -->
     <td width="50%" align="center">
@@ -26,6 +26,7 @@
     </td>
   </tr>
 </table>
+
 
 <h3 align="center">🛠️ Skills & Tools</h3>
 
