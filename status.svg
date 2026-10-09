@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="195" height="28" viewBox="0 0 195 28">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="28" viewBox="0 0 200 28">
   <style>
     .badge-text {
       font-family: Verdana, Geneva, "DejaVu Sans", sans-serif;
@@ -22,11 +22,11 @@
   <rect width="78" height="28" fill="#181824"/>
   
   <!-- Right Green Box (#10b981) -->
-  <rect x="78" width="117" height="28" fill="#10b981"/>
+  <rect x="78" width="122" height="28" fill="#10b981"/>
 
   <!-- Left Text -->
   <text x="39" y="18" class="badge-text">STATUS</text>
 
-  <!-- Right Text + Animated Dots -->
-  <text x="131" y="18" class="badge-text"> COMPILING<tspan class="d1">.</tspan><tspan class="d2">.</tspan><tspan class="d3">.</tspan></text>
+  <!-- Right Text + Animated Dots (x shifted to 138 for perfect padding) -->
+  <text x="138" y="18" class="badge-text">COMPILING<tspan class="d1">.</tspan><tspan class="d2">.</tspan><tspan class="d3">.</tspan></text>
 </svg>
