@@ -27,6 +27,6 @@
   <!-- Left Text -->
   <text x="39" y="18" class="badge-text">STATUS</text>
 
-  <!-- Right Text + Animated Dots (x shifted to 138 for perfect padding) -->
-  <text x="138" y="18" class="badge-text">COMPILING<tspan class="d1">.</tspan><tspan class="d2">.</tspan><tspan class="d3">.</tspan></text>
+
+  <text x="142" y="18" class="badge-text">COMPILING<tspan class="d1">.</tspan><tspan class="d2">.</tspan><tspan class="d3">.</tspan></text>
 </svg>
