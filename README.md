@@ -10,81 +10,77 @@
 - 🗣️ **Languages:** English (Fluent) · Spanish (Fluent)
 
 
-
-<table align="center" width="100%">
-  <tr valign="top">
-    <!-- Left Column: The Eternal Struggling Loader -->
-    <td width="50%" align="center">
-      <a href="https://github.com/Luis-is-afk">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1300&color=F97316&background=181824&center=true&vCenter=true&width=430&height=190&lines=%E2%9A%A0%EF%B8%8F+BOOTING+LUIS.OS...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25+%E2%80%94+DO+NOT+ASK+ABOUT+THE+1%25;[SYS]+Downloading+more+RAM...;[WARN]+Caffeine+levels+approaching+unsafe+limits;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Pushing+directly+to+main...;[CRITICAL]+Brain.exe+has+stopped+responding;[INFO]+Deploying+vibes+to+production...;[FATAL]+The+bug+has+become+self-aware;Retrying+in+2027...+maybe."
-          alt="Luis.OS is experiencing feelings."
-          width="100%"
-        />
-      </a>
-    </td>
-     <!-- Right Column: System Status-->
-  <td width="50%" align="center">
-    <img
-    src="https://img.shields.io/badge/STATUS-BARELY%20OPERATIONAL-F97316?style=for-the-badge&labelColor=181824"
-    alt="Status: Barely Operational"/>
-  <br /><br />
-  <img
-    src="https://img.shields.io/badge/BUGS-IT'S%20A%20FEATURE-ef4444?style=for-the-badge&labelColor=181824"
-    alt="Bugs: It's a feature"/>
-  <br /><br />
-  <img
-    src="https://img.shields.io/badge/SLEEP-DEPRECATED-8b5cf6?style=for-the-badge&labelColor=181824"
-    alt="Sleep: Deprecated" />
-      </td>
-    </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<h3 align="center">🛠️ Skills & Tools</h3>
-
 <p align="center">
-  <!-- Programming & Development -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" title="R" width="36" height="36" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-  <b><img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/vertical-line.svg" height="36" width="6" align="top" /></b>
-  <!-- Data & Analytics -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/02f57891-c4d2-4e44-b665-00c20fd67a71" alt="Tableau" title="Tableau" height="36" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c1a64c59-d1e5-4d05-a88e-595f1606a02b" alt="Excel" title="Excel" width="36" height="36" /></a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" title="Anaconda" width="36" height="36" /></a>
+  <a href="https://github.com/Luis-is-afk">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1100&color=F97316&background=181824&center=true&vCenter=true&width=430&height=190&lines=%E2%9A%A0%EF%B8%8F+BOOTING+LUIS.OS...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25+%E2%80%94+DO+NOT+ASK+ABOUT+THE+1%25;[SYS]+Downloading+more+RAM...;[WARN]+Coffee+levels+approaching+unsafe+limits;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Pushing+directly+to+main...;[CRITICAL]+Brain.exe+has+stopped+responding;[INFO]+Deploying+vibes+to+production...;[FATAL]+The+bug+has+become+self-aware;Retrying+in+2027...+maybe."
+      alt="Luis.OS"
+      width="48%"
+    />
+  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1100&color=A78BFA&background=181824&center=true&vCenter=true&width=430&height=190&lines=[SYS]+Summoning+the+backend...;[WARN]+Server+running+on+one+Dorito;[LOG]+Consulting+the+ancient+Stack+Overflow;[ERROR]+Task+failed+successfully;[WARN]+Rubber+duck+requesting+a+lawyer;[LOG]+Blaming+DNS+as+a+precaution;[FATAL]+Production+has+entered+the+chat;[SYS]+Deleting+evidence...+I+mean+logs;[ERROR]+Cannot+exit%3A+you+are+in+Vim;[INFO]+Everything+is+fine.+Stop+looking."
+    alt="Server Status"
+    width="48%"
+  />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BARELY%20OPERATIONAL-F97316?style=for-the-badge&labelColor=181824" alt="Status: Barely Operational" />
+  <img src="https://img.shields.io/badge/CAFFEINE-CRITICALLY%20LOW-dc2626?style=for-the-badge&labelColor=181824&logo=redbull&logoColor=white" alt="Caffeine: Critically Low" />
+  <img src="https://img.shields.io/badge/BUGS-IT'S%20A%20FEATURE-ef4444?style=for-the-badge&labelColor=181824" alt="Bugs: It's a feature" />
+  <img src="https://img.shields.io/badge/SLEEP-DEPRECATED-8b5cf6?style=for-the-badge&labelColor=181824" alt="Sleep: Deprecated" />
+</p>
+
+---
+
+
+<!-- Borderless right-side widget -->
+<a href="https://github.com/Luis-is-afk">
+  <img
+    align="right"
+    width="310"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-is-afk&langs_count=5&layout=compact&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Langs"
+    alt="Most Used Languages"
+  />
+</a>
+
+<!-- Programming & Development -->
+<h3 align="center">🛠️ Skills & Tools</h3>
+    <p align="center">
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" title="R" width="36" height="36" /></a>
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+  <!-- Data & Analytics -->
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/02f57891-c4d2-4e44-b665-00c20fd67a71" alt="Tableau" title="Tableau" height="36" /></a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/c1a64c59-d1e5-4d05-a88e-595f1606a02b" alt="Excel" title="Excel" width="36" height="36" /></a>
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anaconda/44A833" alt="Anaconda" title="Anaconda" width="36" height="36" /></a>
+</p>
 
 
 <p align="center">
   <!-- Creative & Media -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/20652fed-6c8f-44c7-8951-b8994e840506" alt="Canva" title="Canva" width="36" height="36" /></a>
-  <a href="https://krita.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/krita/EEF37B" alt="Krita" title="Krita" width="36" height="36" /></a>
-  <b><img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/vertical-line.svg" height="36" width="6" align="top" /></b>
-  <!-- Systems & Home Lab -->
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
-  <a href="https://pi-hole.net/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pihole/96060C" alt="Pi-hole" title="Pi-hole" width="36" height="36" /></a>
-  <a href="https://jellyfin.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jellyfin/00A4DC" alt="Jellyfin" title="Jellyfin" width="36" height="36" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
+    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
+    <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
+    <a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+    <a href="https://www.canva.com/"><img src="https://github.com/user-attachments/assets/20652fed-6c8f-44c7-8951-b8994e840506" alt="Canva" title="Canva" width="36" height="36" /></a>
+    <a href="https://krita.org/"><img src="https://cdn.simpleicons.org/krita/EEF37B" alt="Krita" title="Krita" width="36" height="36" /></a>
+    <img src="https://raw.githubusercontent.com/yusufkandemir/yusufkandemir/main/assets/vertical-line.svg" height="36" width="6" align="top" />
+    <!-- Systems & Home Lab -->
+    <a href="https://www.raspberrypi.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
+    <a href="https://pi-hole.net/"><img src="https://cdn.simpleicons.org/pihole/96060C" alt="Pi-hole" title="Pi-hole" width="36" height="36" /></a>
+    <a href="https://jellyfin.org/"><img src="https://cdn.simpleicons.org/jellyfin/00A4DC" alt="Jellyfin" title="Jellyfin" width="36" height="36" /></a>
+    <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+    <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
+    <a href="https://apple.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
 </p>
+<br clear="all" />
+
 
 ---
 # 🚀 Data Analysis Projects
@@ -105,13 +101,16 @@
 * **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/cyclistic-bike-share-analysis)
 
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%"><img src="https://github.com/user-attachments/assets/e8c244af-de4b-4c7e-8a18-ff2bb1175a05" alt="Monthly Volume" /></td>
-      <td width="50%"><img src="https://github.com/user-attachments/assets/83297979-002b-40c2-8c61-b8bbb457dde2" alt="Rides by Day" /></td>
-    </tr>
-  </table>
+  <img
+    src="https://github.com/user-attachments/assets/e8c244af-de4b-4c7e-8a18-ff2bb1175a05"
+    alt="Monthly Volume"
+    width="48%"/>
+  <img
+    src="https://github.com/user-attachments/assets/83297979-002b-40c2-8c61-b8bbb457dde2"
+    alt="Rides by Day"
+    width="48%"/>
 </p>
+
 
 <br>
 <br>
