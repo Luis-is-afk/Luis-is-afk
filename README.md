@@ -16,7 +16,6 @@
 - 🗣️ **Languages:** English and Spanish — fluent in both
 
 
-
 <p align="center">
   <a href="https://github.com/Luis-is-afk">
     <img
@@ -34,8 +33,7 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <!-- Replace src with "./assets/compiling.svg" if using the custom animated file -->
-  <img src="https://img.shields.io/badge/STATUS-COMPILING...-10b981?style=for-the-badge&labelColor=181824" alt="Status: Compiling..." />
+<img src="./assets/status.svg" alt="Status: Compiling..." />
   <img src="https://img.shields.io/badge/CAFFEINE-CRITICALLY%20LOW-dc2626?style=for-the-badge&labelColor=181824&logo=redbull&logoColor=white" alt="Caffeine: Critically Low" />
   <img src="https://img.shields.io/badge/BUGS-EXPECTED%20BEHAVIOR-3b82f6?style=for-the-badge&labelColor=181824" alt="Bugs: Expected Behavior" />
   <br />
