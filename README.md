@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- Row 1 -->
-<img src="./assets/status.svg" alt="Status: Compiling..." />
+<img src="./status.svg" alt="Status: Compiling..." />
   <img src="https://img.shields.io/badge/CAFFEINE-CRITICALLY%20LOW-dc2626?style=for-the-badge&labelColor=181824&logo=redbull&logoColor=white" alt="Caffeine: Critically Low" />
   <img src="https://img.shields.io/badge/BUGS-EXPECTED%20BEHAVIOR-3b82f6?style=for-the-badge&labelColor=181824" alt="Bugs: Expected Behavior" />
   <br />
