@@ -18,13 +18,10 @@
     }
   </style>
 
-  <!-- Left Dark Box (#181824) -->
   <rect width="78" height="28" fill="#181824"/>
-  
-  <!-- Right Green Box (#10b981) -->
+
   <rect x="78" width="122" height="28" fill="#10b981"/>
 
-  <!-- Left Text -->
   <text x="39" y="18" class="badge-text">STATUS</text>
 
 
