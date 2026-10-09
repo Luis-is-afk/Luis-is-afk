@@ -7,43 +7,27 @@
 
 <table align="center" width="100%">
   <tr valign="top">
-    <!-- Left Column -->
+    <!-- Left Column: About Me -->
     <td width="50%">
       <h3 align="center">🙋‍♂️ About Me</h3>
       <ul>
         <li>📍 Based in <b>Denver, Colorado</b> 🏔️</li>
-        <li>🎓 <b>B.S. in Computer Science</b> </li>
+        <li>🎓 <b>B.S. in Computer Science</b></li>
         <li>💻 Building projects with <b>Python</b></li>
         <li>💻 Passionate about <b>Data Analytics</b></li>
-        <li>🛠️ Tinkering with <b>Raspberry Pi home labs, 3D printing, and local AI/LLMs</b></li>
-        <li>⚡ <b>Interests:</li>
+        <li>🛠️ Learning about <b>Raspberry Pi home labs, 3D printing, and local AI/LLMs</b></li>
       </ul>
     </td>
-    <!-- Right Column -->
-    <td width="50%">
-      <h3 align="center">⚡ At a Glance</h3>
-      <ul>
-        <li>🎯 <b>Focus:</li>
-        <li>⚙️ <b>Hardware:</li>
-        <li>🎨 <b>Creative:</li>
-        <li>🚀 <b>Goal:</li>
-      </ul>
+    <!-- Right Column: Language Stats Widget -->
+    <td width="50%" align="center">
+      <a href="https://github.com/Luis-is-afk" target="_blank" rel="noreferrer">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-is-afk&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      </a>
     </td>
   </tr>
 </table>
 
----
-
-<h1 align="center"> 📜 Certifications
-<p align="center">
-  <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e" target="_blank">
-    <img src="./google-data-analytics-professional-certificate-v-3.png" width="100" alt="Google Data Analytics Professional Certificate">
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Skills & Tools</h3>
+<h3 align="center">🛠️ Skills & Tools</h3>
 
 <p align="center">
   <!-- Programming & Development -->
@@ -80,6 +64,31 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
   <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a>
 </p>
+
+---
+# 🚀 Featured Projects
+
+
+---
+<h3 align="center">📜 Education & Certifications</h3>
+
+<!-- Education Block -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/549f71f4-bcaa-4d23-af12-c0bb392313aa" height="65" alt="Angelo State University" />
+  <br />
+  <b>B.S. in Computer Science</b> — Angelo State University
+</p>
+<!-- Certification Block -->
+<p align="center">
+  <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e" target="_blank" rel="noreferrer">
+    <img src="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e/public_url" height="110" alt="Google Data Analytics Professional Certificate" />
+    <br />
+    <b>Google Data Analytics Professional Certificate</b>
+  </a>
+</p>
+
+
+
 
 
 ---
