@@ -10,22 +10,42 @@
 - 🗣️ **Languages:** English (Fluent) · Spanish (Fluent)
 
 
+
 <table align="center" width="100%">
   <tr valign="top">
     <!-- Left Column: The Eternal Struggling Loader -->
     <td width="50%" align="center">
       <a href="https://github.com/Luis-is-afk">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=800&color=F97316&background=181824&center=true&vCenter=true&width=400&height=165&lines=%E2%9A%A0%EF%B8%8F+LOADING+PROFILE+DATA...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25;[LOG]+Downloading+more+RAM...;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Retrying+(Attempt+%2399999)...;CRITICAL_ERROR%3A+Brain.exe+hung;Please+check+back+in+2027..." alt="Loading forever..." width="100%" />
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1300&color=F97316&background=181824&center=true&vCenter=true&width=430&height=190&lines=%E2%9A%A0%EF%B8%8F+BOOTING+LUIS.OS...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25+%E2%80%94+DO+NOT+ASK+ABOUT+THE+1%25;[SYS]+Downloading+more+RAM...;[WARN]+Caffeine+levels+approaching+unsafe+limits;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Pushing+directly+to+main...;[CRITICAL]+Brain.exe+has+stopped+responding;[INFO]+Deploying+vibes+to+production...;[FATAL]+The+bug+has+become+self-aware;Retrying+in+2027...+maybe."
+          alt="Luis.OS is experiencing feelings."
+          width="100%"
+        />
       </a>
     </td>
-    <!-- Right Column: Language Stats Widget -->
-    <td width="50%" align="center">
-      <a href="https://github.com/Luis-is-afk" target="_blank" rel="noreferrer">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-is-afk&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
+     <!-- Right Column: System Status-->
+  <td width="50%" align="center">
+    <img
+    src="https://img.shields.io/badge/STATUS-BARELY%20OPERATIONAL-F97316?style=for-the-badge&labelColor=181824"
+    alt="Status: Barely Operational"/>
+  <br /><br />
+  <img
+    src="https://img.shields.io/badge/BUGS-IT'S%20A%20FEATURE-ef4444?style=for-the-badge&labelColor=181824"
+    alt="Bugs: It's a feature"/>
+  <br /><br />
+  <img
+    src="https://img.shields.io/badge/SLEEP-DEPRECATED-8b5cf6?style=for-the-badge&labelColor=181824"
+    alt="Sleep: Deprecated" />
+      </td>
+    </tr>
 </table>
+
+
+
+
+
+
+
 
 
 <h3 align="center">🛠️ Skills & Tools</h3>
