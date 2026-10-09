@@ -6,7 +6,7 @@
 - 📍 Live in **Denver, Colorado**🏔️
 - 🎓 **Background:** B.S. in Computer Science with a focus on data analytics
 - 🎯 **Current Focus:** Deepening understanding in end to end data pipelines, predictive analytics, and self hosted server infrastructure.
-- ⚡ **Fun fact:** I have lived in Colorado, Wyoming, Texas, & Ohio
+- ⚡ **Fun fact:** I’ve lived in Colorado, Wyoming, Texas, Ohio, and spent quite a few summers living in Mexico.<img height="20" alight="top" alt="1F3F4-E0075-E0073-E0063-E006F-E007F_color" src="https://github.com/user-attachments/assets/35b5c0b2-2d41-426f-a781-fc4b43e8a6f2" /> <img height="20" alight="top" alt="5740-wyoming-flag" src="https://github.com/user-attachments/assets/40378f7e-b3ac-4e37-890f-121dc483fb86" /> <img height="20" alight="top" alt="Flag-for-texas-ustx_1f3f4-e0075-e0073-e0074-e0078-e007f_%281%29" src="https://github.com/user-attachments/assets/e8cd0d6d-25cb-4e28-91db-d12fdd6e187d" /> <img height="20" alight="top" alt="Ohio_Flag_%28Discord_Version%29" src="https://github.com/user-attachments/assets/66b55a22-35cc-4a61-93dd-7080a24539af" /> <img height="20" alight="top" alt="mx-9abfd46c" src="https://github.com/user-attachments/assets/0db7f27d-e318-4799-a782-eab338b5e324" />
 - 🗣️ **Languages:** English (Fluent) · Spanish (Fluent)
 
 
