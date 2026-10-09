@@ -81,13 +81,11 @@
 <!-- Certification Block -->
 <p align="center">
   <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e" target="_blank" rel="noreferrer">
-    <img src="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e/public_url" height="110" alt="Google Data Analytics Professional Certificate" />
+    <img src="https://github.com/user-attachments/assets/7546e593-1acf-46d1-8acb-b365311963ca" height="110" alt="Google Data Analytics Professional Certificate" />
     <br />
     <b>Google Data Analytics Professional Certificate</b>
   </a>
 </p>
-
-
 
 
 
