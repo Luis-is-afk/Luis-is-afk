@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/Luis-is-afk">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1100&color=F97316&background=181824&center=true&vCenter=true&width=430&height=190&lines=%E2%9A%A0%EF%B8%8F+BOOTING+LUIS.OS...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25+%E2%80%94+DO+NOT+ASK+ABOUT+THE+1%25;[SYS]+Downloading+more+RAM...;[WARN]+Coffee+levels+approaching+unsafe+limits;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Pushing+directly+to+main...;[CRITICAL]+Brain.exe+has+stopped+responding;[INFO]+Deploying+vibes+to+production...;[FATAL]+The+bug+has+become+self-aware;Retrying+in+2027...+maybe."
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1100&color=F97316&background=181824&center=true&vCenter=true&width=430&height=190&lines=%E2%9A%A0%EF%B8%8F+BOOTING+LUIS.OS...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+99%25+%E2%80%94+DO+NOT+ASK+ABOUT+THE+1%25;[SYS]+Downloading+more+RAM...;[WARN]+Caffeine+levels+approaching+unsafe+limits;[ERROR]+404%3A+Motivation+Not+Found;[LOG]+Pushing+directly+to+main...;[CRITICAL]+Brain.exe+has+stopped+responding;[INFO]+Deploying+vibes+to+production...;[FATAL]+The+bug+has+become+self-aware;Retrying+in+2027...+maybe."
       alt="Luis.OS"
       width="48%"
     />
@@ -33,10 +33,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BARELY%20OPERATIONAL-F97316?style=for-the-badge&labelColor=181824" alt="Status: Barely Operational" />
+  <!-- Row 1 -->
+  <!-- Replace src with "./assets/compiling.svg" if using the custom animated file -->
+  <img src="https://img.shields.io/badge/STATUS-COMPILING...-10b981?style=for-the-badge&labelColor=181824" alt="Status: Compiling..." />
   <img src="https://img.shields.io/badge/CAFFEINE-CRITICALLY%20LOW-dc2626?style=for-the-badge&labelColor=181824&logo=redbull&logoColor=white" alt="Caffeine: Critically Low" />
-  <img src="https://img.shields.io/badge/BUGS-IT'S%20A%20FEATURE-ef4444?style=for-the-badge&labelColor=181824" alt="Bugs: It's a feature" />
+  <img src="https://img.shields.io/badge/BUGS-EXPECTED%20BEHAVIOR-3b82f6?style=for-the-badge&labelColor=181824" alt="Bugs: Expected Behavior" />
+  <br />
+  <!-- Row 2 -->
   <img src="https://img.shields.io/badge/SLEEP-DEPRECATED-8b5cf6?style=for-the-badge&labelColor=181824" alt="Sleep: Deprecated" />
+  <img src="https://img.shields.io/badge/404-ERROR%20NOT%20REAL-f59e0b?style=for-the-badge&labelColor=181824" alt="404: Error Not Real" />
+  <img src="https://img.shields.io/badge/ORIGIN-BIT%20BY%20A%20RADIOACTIVE%20FIREFOX-ec4899?style=for-the-badge&labelColor=181824&logo=firefox&logoColor=white" alt="Origin: Bit by a radioactive Firefox" />
 </p>
 
 ---
