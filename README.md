@@ -66,7 +66,25 @@
 </p>
 
 ---
-# 🚀 Featured Projects
+# 🚀 Data Analysis Projects
+
+<h3>🚲 <a href="https://github.com/Luis-is-afk/Cyclistic-Bike-Share-Case-Study">Cyclistic Bike-Share: Rider Behavior & Conversion Strategy</a></h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R"  title="R" height="36" />
+  <img src="https://github.com/user-attachments/assets/ab5d280e-e3a6-404c-ba8e-37a8ce7f8bdb" alt="tidyverse" title="tidyverse" height="36" />
+  <img src="https://github.com/user-attachments/assets/e41613f0-96ef-41bd-8a89-3f0b4064a4f7" alt="ggplot2"  title="ggplot2" height="36" />
+  <img src="https://github.com/user-attachments/assets/b82afff3-a894-43fc-8543-e51407a05314" alt="Divvy Trip Data" title="Divvy Trip Data" height="36" />
+  <img src="https://github.com/user-attachments/assets/4291bbaf-160e-4163-8101-d18f0be73806" alt="lubridate" title="lubridate" height="36" />
+</p>
+
+* **Overview:** Data analysis in R evaluating ride records from Divvy public trip data to uncover distinct usage patterns between annual members and casual riders for targeted marketing conversion campaigns.
+* **Methodology:** Developed a fully reproducible R workflow (`cyclistic_analysis.R`) with `tidyverse` and `lubridate` to ingest, sanitize, and validate 6.1M+ raw rows exceeding spreadsheet capacity, filtering out false starts and edge cases while generating structured quality assurance report.
+* **Key Findings:** Revealed that members exhibit commute driven behavior (weekday rush hour peaks at transit/office hubs), whereas casual riders follow leisure patterns (weekend/afternoon peaks near lakefront tourist stations), with 81% of casual volume concentrated in May - October.
+* **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/cyclistic-bike-share-analysis)
+
+<br>
+<br>
 
 <h3>📊 <a href="https://github.com/Luis-is-afk/YRBSS-Case-Study">YRBSS Case Study: Academic Performance & Youth Mental Health</a></h3>
 
@@ -86,8 +104,7 @@
     <img src="https://github.com/user-attachments/assets/a8e4e321-9197-49d3-9ddd-554f66a9fcbc" alt="YRBSS Interactive Dashboard Preview" width="50%" />
   </a>
 </p>
-
-
+<br>
 
 ---
 <h3 align="center">📜 Education & Certifications</h3>
