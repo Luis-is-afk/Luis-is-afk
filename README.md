@@ -1,13 +1,20 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50" align="middle" alt="Waving Hand" /> My name is Luis Arreola
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50" align="middle" alt="Waving Hand" /> I'm Luis Arreola
 </h1>
 
 ## 👨‍💻 About Me
-- 📍 Live in **Denver, Colorado**🏔️
-- 🎓 **Background:** B.S. in Computer Science with a focus on data analytics
-- 🎯 **Current Focus:** Deepening understanding in end to end data pipelines, predictive analytics, and self hosted server infrastructure.
-- ⚡ **Fun fact:** I’ve lived in Colorado, Wyoming, Texas, Ohio, and spent quite a few summers living in Mexico.<img height="20" alight="top" alt="1F3F4-E0075-E0073-E0063-E006F-E007F_color" src="https://github.com/user-attachments/assets/35b5c0b2-2d41-426f-a781-fc4b43e8a6f2" /> <img height="20" alight="top" alt="5740-wyoming-flag" src="https://github.com/user-attachments/assets/40378f7e-b3ac-4e37-890f-121dc483fb86" /> <img height="20" alight="top" alt="Flag-for-texas-ustx_1f3f4-e0075-e0073-e0074-e0078-e007f_%281%29" src="https://github.com/user-attachments/assets/e8cd0d6d-25cb-4e28-91db-d12fdd6e187d" /> <img height="20" alight="top" alt="Ohio_Flag_%28Discord_Version%29" src="https://github.com/user-attachments/assets/66b55a22-35cc-4a61-93dd-7080a24539af" /> <img height="20" alight="top" alt="mx-9abfd46c" src="https://github.com/user-attachments/assets/0db7f27d-e318-4799-a782-eab338b5e324" />
-- 🗣️ **Languages:** English (Fluent) · Spanish (Fluent)
+
+- 📍 Based in **Denver, Colorado** 🏔️
+- 🎓 B.S. in **Computer Science**, focused on data analytics
+- 🎯 Currently building deeper skills in end-to-end data pipelines, predictive analytics, and self-hosted server infrastructure
+- ⚡ **Fun fact:** I’ve lived in Colorado, Wyoming, Texas, and Ohio—and spent quite a few summers in Mexico.
+  <img height="20" align="top" alt="Colorado flag" src="https://github.com/user-attachments/assets/35b5c0b2-2d41-426f-a781-fc4b43e8a6f2" />
+  <img height="20" align="top" alt="Wyoming flag" src="https://github.com/user-attachments/assets/40378f7e-b3ac-4e37-890f-121dc483fb86" />
+  <img height="20" align="top" alt="Texas flag" src="https://github.com/user-attachments/assets/e8cd0d6d-25cb-4e28-91db-d12fdd6e187d" />
+  <img height="20" align="top" alt="Ohio flag" src="https://github.com/user-attachments/assets/66b55a22-35cc-4a61-93dd-7080a24539af" />
+  <img height="20" align="top" alt="Mexico flag" src="https://github.com/user-attachments/assets/0db7f27d-e318-4799-a782-eab338b5e324" />
+- 🗣️ **Languages:** English and Spanish — fluent in both
+
 
 
 <p align="center">
@@ -83,89 +90,92 @@
 
 
 ---
-# 🚀 Data Analysis Projects
+## 🚀 Data Analysis Projects
 
-<h3>🚲 <a href="https://github.com/Luis-is-afk/Cyclistic-Bike-Share-Case-Study">Cyclistic Bike-Share: Rider Behavior & Conversion Strategy</a></h3>
+### 🚲 <a href="https://github.com/Luis-is-afk/Cyclistic-Bike-Share-Case-Study">Cyclistic Bike-Share: Rider Behavior &amp; Conversion Strategy</a>
 
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R"  title="R" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" title="R" height="36" />
   <img src="https://github.com/user-attachments/assets/ab5d280e-e3a6-404c-ba8e-37a8ce7f8bdb" alt="tidyverse" title="tidyverse" height="36" />
-  <img src="https://github.com/user-attachments/assets/e41613f0-96ef-41bd-8a89-3f0b4064a4f7" alt="ggplot2"  title="ggplot2" height="36" />
+  <img src="https://github.com/user-attachments/assets/e41613f0-96ef-41bd-8a89-3f0b4064a4f7" alt="ggplot2" title="ggplot2" height="36" />
   <img src="https://github.com/user-attachments/assets/b82afff3-a894-43fc-8543-e51407a05314" alt="Divvy Trip Data" title="Divvy Trip Data" height="36" />
   <img src="https://github.com/user-attachments/assets/4291bbaf-160e-4163-8101-d18f0be73806" alt="lubridate" title="lubridate" height="36" />
 </p>
 
-* **Overview:** Data analysis in R evaluating ride records from Divvy public trip data to uncover distinct usage patterns between annual members and casual riders for targeted marketing conversion campaigns.
-* **Methodology:** Developed a fully reproducible R workflow (`cyclistic_analysis.R`) with `tidyverse` and `lubridate` to ingest, sanitize, and validate 6.1M+ raw rows exceeding spreadsheet capacity, filtering out false starts and edge cases while generating structured quality assurance report.
-* **Key Findings:** Revealed that members exhibit commute driven behavior (weekday rush hour peaks at transit/office hubs), whereas casual riders follow leisure patterns (weekend/afternoon peaks near lakefront tourist stations), with 81% of casual volume concentrated in May - October.
-* **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/cyclistic-bike-share-analysis)
+- **Overview:** An R based analysis of Divvy public trip data that identifies distinct riding patterns between annual members and casual riders to inform conversion focused marketing campaigns.
+- **Methodology:** Built a fully reproducible R workflow (`cyclistic_analysis.R`) using `tidyverse` and `lubridate` to ingest, clean, and validate more than 6.1 million raw trip records, well beyond typical spreadsheet capacity. Filtered false starts and edge cases, then produced a structured quality assurance report.
+- **Key findings:** Annual members showed commute driven behavior, with weekday rush-hour peaks near transit and office hubs. Casual riders showed leisure-oriented patterns, peaking on weekends and afternoons near lakefront tourist stations; 81% of casual ride volume occurred from May through October.
+- **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/cyclistic-bike-share-analysis)
 
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/e8c244af-de4b-4c7e-8a18-ff2bb1175a05"
-    alt="Monthly Volume"
-    width="48%"/>
+    alt="Monthly ride volume by rider type"
+    width="48%"
+  />
   <img
     src="https://github.com/user-attachments/assets/83297979-002b-40c2-8c61-b8bbb457dde2"
-    alt="Rides by Day"
-    width="48%"/>
+    alt="Rides by day of week"
+    width="48%"
+  />
 </p>
-
-
-<br>
-<br>
-
-<h3>📊 <a href="https://github.com/Luis-is-afk/YRBSS-Case-Study">YRBSS Case Study: Academic Performance & Youth Mental Health</a></h3>
-
-<p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python"  title="Python" height="36" />
-  <img src="https://cdn.simpleicons.org/pandas/white" alt="pandas"  title="Panda Library" height="36" />
-  <img src="https://github.com/user-attachments/assets/2c09df6a-c21a-4e9f-94de-22380ec9ae5a" alt="statsmodels"  title="Stats Models Library" height="36" />
-  <img src="https://github.com/user-attachments/assets/977f836f-86f6-408e-b379-d39466d9d571" alt="CDC Microdata"  title="CDC Data" height="36" />
-</p>
-
-* **Overview:** Data analysis case study evaluating the relationship between high school academic performance and adolescent mental health risks across, ~13,000 respondents from a 2023 CDC Youth Risk Behavior Surveillance System study.
-* **Methodology:** Cleaned CDC national microdata, performed survey weighting and multivariate regression (adjusting for sleep, bullying, cyberbullying, and demographics), and created an automated quality assurance validation step (`validate_yrbss_analysis.py`) to verify data integrity.
-* **Key Finding:** Identified that students reporting mostly D's faced ~10x higher adjusted odds of persistent sadness and ~9x higher odds of suicide planning compared to A students, establishing academic decline as a potential early warning sign for support.
-* **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/YRBSS-Case-Study) | [🌐 Interactive Dashboard](https://luis-is-afk.github.io/YRBSS-Case-Study/interactive_dashboard.html)
-<p align="center">
-  <a href="https://luis-is-afk.github.io/YRBSS-Case-Study/interactive_dashboard.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/a8e4e321-9197-49d3-9ddd-554f66a9fcbc" alt="YRBSS Interactive Dashboard Preview" width="50%" />
-  </a>
-</p>
-<br>
 
 ---
-<h3 align="center">🎓Education & Certifications</h3>
 
-<!-- Education Block -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/549f71f4-bcaa-4d23-af12-c0bb392313aa" height="65" alt="Angelo State University" />
-  <br />
-  <b>B.S. in Computer Science</b> — Angelo State University <br>
+### 📊 <a href="https://github.com/Luis-is-afk/YRBSS-Case-Study">YRBSS Case Study: Academic Performance &amp; Youth Mental Health</a>
 
- <!-- 
-  <img src="https://github.com/user-attachments/assets/8c526362-300a-4d53-b65f-e20417344302" height="100" alt="Colorado State University" />
-  <br />
-  <i>Incoming M.S. in Computer Information Systems</i> <br>
-  <sub>Expected Enrolling: Fall 2027</sub>
--->
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" height="36" />
+  <img src="https://cdn.simpleicons.org/pandas/white" alt="pandas" title="pandas" height="36" />
+  <img src="https://github.com/user-attachments/assets/2c09df6a-c21a-4e9f-94de-22380ec9ae5a" alt="statsmodels" title="statsmodels" height="36" />
+  <img src="https://github.com/user-attachments/assets/977f836f-86f6-408e-b379-d39466d9d571" alt="CDC Youth Risk Behavior Survey data" title="CDC Data" height="36" />
 </p>
 
-<!-- Certification Block -->
+- **Overview:** A data analysis case study examining associations between high school academic performance and adolescent mental health outcomes among approximately 13,000 respondents in the 2023 CDC Youth Risk Behavior Surveillance System.
+- **Methodology:** Cleaned national CDC microdata, applied survey weights, ran multivariate regression models adjusted for sleep, bullying, cyberbullying, and demographic factors, and built an automated validation script (`validate_yrbss_analysis.py`) to verify data integrity.
+- **Key finding:** After adjustment, students reporting mostly D grades had approximately 10 times higher odds of persistent sadness and approximately 9 times higher odds of suicide planning than students reporting mostly A grades. These findings identify academic difficulty as a potential early warning signal for additional student support, not evidence that grades cause mental-health outcomes.
+
+- **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/YRBSS-Case-Study) · [🌐 Interactive Dashboard](https://luis-is-afk.github.io/YRBSS-Case-Study/interactive_dashboard.html)
+
 <p align="center">
-  <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/7546e593-1acf-46d1-8acb-b365311963ca" height="110" alt="Google Data Analytics Professional Certificate" />
+  <a href="https://luis-is-afk.github.io/YRBSS-Case-Study/interactive_dashboard.html">
+    <img
+      src="https://github.com/user-attachments/assets/a8e4e321-9197-49d3-9ddd-554f66a9fcbc"
+      alt="Preview of the YRBSS interactive dashboard"
+      width="50%"
+    />
+  </a>
+</p>
+
+---
+
+## 🎓 Education &amp; Certifications
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/549f71f4-bcaa-4d23-af12-c0bb392313aa"
+    height="65"
+    alt="Angelo State University"
+  />
+  <br />
+  <b>B.S. in Computer Science</b> — Angelo State University
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e">
+    <img
+      src="https://github.com/user-attachments/assets/7546e593-1acf-46d1-8acb-b365311963ca"
+      height="110"
+      alt="Google Data Analytics Professional Certificate"
+    />
     <br />
     <b>Google Data Analytics Professional Certificate</b>
   </a>
 </p>
 
-
-
 ---
-<h3 align="center"> 🤝 Connect with me</h3>
 
+<h3 align="center"> 🤝 Connect with me</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/luis-arreola-593644210" target="_blank"><img src="https://github.com/user-attachments/assets/4d0b8c77-9207-4c6a-9774-725aff415a73" width="30" height="30" alt="LinkedIn" align="middle" /></a>
   &nbsp;&nbsp;
@@ -175,6 +185,3 @@
   &nbsp;&nbsp;
     <a href="https://github.com/Luis-is-afk" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub" title="GitHub" align="middle" /></a>
 </p>
-
-
-
