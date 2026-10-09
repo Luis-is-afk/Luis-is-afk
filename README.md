@@ -142,9 +142,14 @@
     <img
       src="https://github.com/user-attachments/assets/a8e4e321-9197-49d3-9ddd-554f66a9fcbc"
       alt="Preview of the YRBSS interactive dashboard"
-      width="50%"
+      width="48%"
     />
   </a>
+  <img
+    src="https://github.com/user-attachments/assets/9040f5c0-6ed3-4529-89f6-c9e756fc2385"
+    alt="YRBSS analysis visualization"
+    width="48%"
+  />
 </p>
 
 ---
