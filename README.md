@@ -83,6 +83,15 @@
 * **Key Findings:** Revealed that members exhibit commute driven behavior (weekday rush hour peaks at transit/office hubs), whereas casual riders follow leisure patterns (weekend/afternoon peaks near lakefront tourist stations), with 81% of casual volume concentrated in May - October.
 * **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/cyclistic-bike-share-analysis)
 
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%"><img src="https://github.com/user-attachments/assets/e8c244af-de4b-4c7e-8a18-ff2bb1175a05" alt="Monthly Volume" /></td>
+      <td width="50%"><img src="https://github.com/user-attachments/assets/83297979-002b-40c2-8c61-b8bbb457dde2" alt="Rides by Day" /></td>
+    </tr>
+  </table>
+</p>
+
 <br>
 <br>
 
