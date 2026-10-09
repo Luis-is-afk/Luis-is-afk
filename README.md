@@ -68,6 +68,26 @@
 ---
 # 🚀 Featured Projects
 
+<h3>📊 <a href="https://github.com/Luis-is-afk/YRBSS-Case-Study">YRBSS Case Study: Academic Performance & Youth Mental Health</a></h3>
+
+<p>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python"  title="Python" height="36" />
+  <img src="https://cdn.simpleicons.org/pandas/white" alt="pandas"  title="Panda Library" height="36" />
+  <img src="https://github.com/user-attachments/assets/2c09df6a-c21a-4e9f-94de-22380ec9ae5a" alt="statsmodels"  title="Stats Models Library" height="36" />
+  <img src="https://github.com/user-attachments/assets/977f836f-86f6-408e-b379-d39466d9d571" alt="CDC Microdata"  title="CDC Data" height="36" />
+</p>
+
+* **Overview:** Data analysis case study evaluating the relationship between high school academic performance and adolescent mental health risks across, ~13,000 respondents from a 2023 CDC Youth Risk Behavior Surveillance System study.
+* **Methodology:** Cleaned CDC national microdata, performed survey weighting and multivariate regression (adjusting for sleep, bullying, cyberbullying, and demographics), and created an automated quality assurance validation step (`validate_yrbss_analysis.py`) to verify data integrity.
+* **Key Finding:** Identified that students reporting mostly D's faced ~10x higher adjusted odds of persistent sadness and ~9x higher odds of suicide planning compared to A students, establishing academic decline as a potential early warning sign for support.
+* **Links:** [📁 GitHub Repository](https://github.com/Luis-is-afk/YRBSS-Case-Study) | [🌐 Interactive Dashboard](https://luis-is-afk.github.io/YRBSS-Case-Study/interactive_dashboard.html)
+<p align="center">
+  <a href="https://luis-is-afk.github.io/YRBSS-Case-Study/interactive_dashboard.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/a8e4e321-9197-49d3-9ddd-554f66a9fcbc" alt="YRBSS Interactive Dashboard Preview" width="50%" />
+  </a>
+</p>
+
+
 
 ---
 <h3 align="center">📜 Education & Certifications</h3>
@@ -101,5 +121,6 @@
   &nbsp;&nbsp;
     <a href="https://github.com/Luis-is-afk" target="_blank"><img src="https://cdn.simpleicons.org/github/ffffff" width="30" height="30" alt="GitHub" title="GitHub" align="middle" /></a>
 </p>
+
 
 
