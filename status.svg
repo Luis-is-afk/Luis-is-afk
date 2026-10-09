@@ -28,5 +28,5 @@
   <text x="39" y="18" class="badge-text">STATUS</text>
 
   <!-- Right Text + Animated Dots -->
-  <text x="131" y="18" class="badge-text">COMPILING<tspan class="d1">.</tspan><tspan class="d2">.</tspan><tspan class="d3">.</tspan></text>
+  <text x="131" y="18" class="badge-text"> COMPILING<tspan class="d1">.</tspan><tspan class="d2">.</tspan><tspan class="d3">.</tspan></text>
 </svg>
