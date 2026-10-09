@@ -116,14 +116,22 @@
 <br>
 
 ---
-<h3 align="center">📜 Education & Certifications</h3>
+<h3 align="center">🎓Education & Certifications</h3>
 
 <!-- Education Block -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/549f71f4-bcaa-4d23-af12-c0bb392313aa" height="65" alt="Angelo State University" />
   <br />
-  <b>B.S. in Computer Science</b> — Angelo State University
+  <b>B.S. in Computer Science</b> — Angelo State University <br>
+
+ <!-- 
+  <img src="https://github.com/user-attachments/assets/8c526362-300a-4d53-b65f-e20417344302" height="100" alt="Colorado State University" />
+  <br />
+  <i>Incoming M.S. in Computer Information Systems</i> <br>
+  <sub>Expected Enrolling: Fall 2027</sub>
+-->
 </p>
+
 <!-- Certification Block -->
 <p align="center">
   <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e" target="_blank" rel="noreferrer">
