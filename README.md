@@ -1,7 +1,36 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50" height="50" align="middle" alt="Waving Hand" /> My name is Luis Arreola
 </h1>
-⛰️ I am based in Denver, Colorado
+
+
+
+
+<table align="center" width="100%">
+  <tr valign="top">
+    <!-- Left Column -->
+    <td width="50%">
+      <h3 align="center">🙋‍♂️ About Me</h3>
+      <ul>
+        <li>📍 Based in <b>Denver, Colorado</b> 🏔️</li>
+        <li>🎓 <b>B.S. in Computer Science</b> </li>
+        <li>💻 Building projects with <b>Python</b></li>
+        <li>💻 Passionate about <b>Data Analytics</b></li>
+        <li>🛠️ Tinkering with <b>Raspberry Pi home labs, 3D printing, and local AI/LLMs</b></li>
+        <li>⚡ <b>Interests:</li>
+      </ul>
+    </td>
+    <!-- Right Column -->
+    <td width="50%">
+      <h3 align="center">⚡ At a Glance</h3>
+      <ul>
+        <li>🎯 <b>Focus:</li>
+        <li>⚙️ <b>Hardware:</li>
+        <li>🎨 <b>Creative:</li>
+        <li>🚀 <b>Goal:</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,7 +43,7 @@
 
 ---
 
-<h3 align="center">🛠️ Skills & Tools</h3>
+<h2 align="center">🛠️ Skills & Tools</h3>
 
 <p align="center">
   <!-- Programming & Development -->
