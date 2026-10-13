@@ -160,15 +160,33 @@
 
 ## 🎓 Education &amp; Certifications
 
+<!-- ASU on the left; CSU on the right -->
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/549f71f4-bcaa-4d23-af12-c0bb392313aa"
     height="65"
     alt="Angelo State University"
   />
-  <br />
-  <b>B.S. in Computer Science</b> — Angelo State University
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/user-attachments/assets/8c526362-300a-4d53-b65f-e20417344302"
+    height="65"
+    alt="Colorado State University"
+  />
 </p>
+
+<p align="center">
+  <b>Angelo State University</b> &nbsp; • &nbsp; <b>Colorado State University</b>
+  <br />
+  B.S. in Computer Science &nbsp; • &nbsp; Incoming M.S. in Computer Information Systems
+  <br />
+  <sub>CSU: Accepted — Starting Fall 2027</sub>
+</p>
+
+
+
+
+
 
 <p align="center">
   <a href="https://www.credly.com/badges/e3268183-8ba9-46ad-bf91-c966d987348e">
