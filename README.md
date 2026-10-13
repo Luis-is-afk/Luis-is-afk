@@ -40,7 +40,7 @@
   <!-- Row 2 -->
   <img src="https://img.shields.io/badge/SLEEP-DEPRECATED-8b5cf6?style=for-the-badge&labelColor=181824" alt="Sleep: Deprecated" />
   <img src="https://img.shields.io/badge/404-ERROR%20NOT%20REAL-f59e0b?style=for-the-badge&labelColor=181824" alt="404: Error Not Real" />
-  <img src="https://img.shields.io/badge/ORIGIN-BIT%20BY%20A%20RADIOACTIVE%20FIREFOX-ec4899?style=for-the-badge&labelColor=181824&logo=firefox&logoColor=white" alt="Origin: Bit by a radioactive Firefox" />
+  <img src="https://img.shields.io/badge/ORIGIN-BIT%20BY%20A%20RADIOACTIVE%20FIREFOX-ec4899?style=for-the-badge&labelColor=181824&logo=firefox&logoColor=white" alt="Origin: Bit by a radioactive Fire Fox" />
 </p>
 
 ---
