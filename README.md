@@ -13,7 +13,7 @@
   <img height="20" align="top" alt="Texas flag" src="https://github.com/user-attachments/assets/e8cd0d6d-25cb-4e28-91db-d12fdd6e187d" />
   <img height="20" align="top" alt="Ohio flag" src="https://github.com/user-attachments/assets/66b55a22-35cc-4a61-93dd-7080a24539af" />
   <img height="20" align="top" alt="Mexico flag" src="https://github.com/user-attachments/assets/0db7f27d-e318-4799-a782-eab338b5e324" />
-- 🗣️ **Languages:** English and Spanish — fluent in both
+- 🗣️ **Languages:** English and Spanish `Fluent in Both`
 
 
 <p align="center">
