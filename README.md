@@ -180,7 +180,7 @@
   <br />
   B.S. in Computer Science &nbsp; • &nbsp; Incoming M.S. in Computer Information Systems
   <br />
-  <sub>CSU: Accepted — Starting Fall 2027</sub>
+  <sub>CSU: Accepted — Starting Spring 2027</sub>
 </p>
 
 
